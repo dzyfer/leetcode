@@ -8,4 +8,5 @@ void reverseString(char* s, int sSize) {
         i++;
         j--;
     }
+    printf("%s", s);
 }
